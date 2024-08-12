@@ -2,6 +2,8 @@
 
 This repository contains an example setup for Odoo development. It includes a sample module, a sample theme, and a sample theme extension.
 
+![Odoo](./docs/apps.png)
+
 ## Setup
 
 1. Clone this repository.
