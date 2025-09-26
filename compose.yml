@@ -14,7 +14,7 @@ services:
     restart: unless-stopped
   
   db:
-    image: postgres:17
+    image: postgres:18
     env_file:
       - .env
     volumes:
